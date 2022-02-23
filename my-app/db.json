@@ -1,0 +1,131 @@
+{
+  "usuarios": [],
+  "equipes": [
+    {
+      "id": 1,
+      "nome": "Pack 1",
+      "descricao": "Equipe voltada para o pack projeto X de lorem inlspas with over 6,000 species, ranging across all continents except Antarctica",
+      "thumb": "Nome da equipe"
+    },
+    {
+      "id": 2,
+      "nome": "Pack 2",
+      "descricao": "Equipe voltada para o pack projeto Y de lorem inlspas with over 6,000 species, ranging across all continents except Antarctica",
+      "thumb": "Nome da equipe"
+    }
+  ],
+  "membros": [
+    {
+      "id": 1,
+      "nome": "Higor Henrique",
+      "nivel": "Trainee",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "",
+      "fimDasFerias": "",
+      "ferias": false,
+      "foto": "/static/images/avatar/3.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Bernard",
+      "nivel": "Trainee",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "",
+      "fimDasFerias": "",
+      "ferias": false,
+      "foto": "/static/images/avatar/3.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Marcella Alzuguir",
+      "nivel": "Trainee",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "30/12/2021",
+      "fimDasFerias": "30/01/2021",
+      "ferias": true,
+      "foto": "/static/images/avatar/3.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Matheus Andrade",
+      "nivel": "Senior",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "30/12/2021",
+      "fimDasFerias": "30/01/2022",
+      "ferias": true,
+      "foto": "/static/images/avatar/3.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Patricia Bragança",
+      "nivel": "Senior",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "",
+      "fimDasFerias": "",
+      "ferias": false,
+      "foto": "/static/images/avatar/3.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Pedro Coelho",
+      "nivel": "Senior",
+      "status": "Trabalhando na tela de equipe",
+      "inicioDasFerias": "",
+      "fimDasFerias": "",
+      "ferias": false,
+      "foto": "/static/images/avatar/3.jpg"
+    }
+  ],
+  "bhCompensacao": [
+    {
+      "id": 1,
+      "data_compensacao": "04/01/2022",
+      "hr_inicial_compensacao": "17:00",
+      "hr_termino_compensacao": "19:00"
+    },
+    {
+      "data_compensacao": "06/01/2022",
+      "hr_inicial_compensacao": "15:00",
+      "hr_termino_compensacao": "17:00",
+      "id": 2
+    },
+    {
+      "data_compensacao": "15/01/2022",
+      "hr_inicial_compensacao": "16:00",
+      "hr_termino_compensacao": "19:00",
+      "id": 3
+    },
+    {
+      "data_compensacao": "13/01/2022",
+      "hr_inicial_compensacao": "15:00",
+      "hr_termino_compensacao": "16:00",
+      "id": 4
+    },
+    {
+      "data_compensacao": "15/01/2022",
+      "hr_inicial_compensacao": "12:00",
+      "hr_termino_compensacao": "19:30",
+      "id": 5
+    }
+  ],
+  "bhCompensado": [
+    {
+      "id": 1,
+      "data_compensado": "04/01/2022",
+      "hr_inicial_compensado": "18:00",
+      "hr_termino_compensado": "19:00"
+    },
+    {
+      "data_compensado": "12/01/2022",
+      "hr_inicial_compensado": "15:00",
+      "hr_termino_compensado": "17:00",
+      "id": 2
+    },
+    {
+      "data_compensado": "13/01/2022",
+      "hr_inicial_compensado": "12:00",
+      "hr_termino_compensado": "14:00",
+      "id": 3
+    }
+  ]
+}

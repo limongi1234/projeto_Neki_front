@@ -1,0 +1,61 @@
+h2.titulo{
+    margin-top: 20px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+   
+}
+
+table.table{
+    margin-top: 20px;
+    box-shadow: 0 0 10px 0 rgb(50 50 50 / 82%);    
+    max-width: 100%;
+    border-radius: 7px;
+    margin-left: 20vw;
+    font-size: 18px;
+    color:rgb(65, 64, 64)
+    
+    
+   
+    
+}
+table>thead{
+    font-weight: 600;
+    
+}
+
+.tabela-funcionarios{
+    font-weight: 600;
+    background: linear-gradient(45deg, #63c0df , #308eb6 60%);    
+    border-radius: 7px;
+    font-size: 30px;
+    
+    }
+
+.modal-dialog{
+    max-width: 55%;
+    
+}
+.flex-container{
+    width:"500px";
+    margin: auto;
+    border: "1px solid #ddd";  
+    border-radius:"250px";
+    margin-top: auto;
+         
+}
+
+
+.message {
+    margin-top: 20px;
+    font-size: 17px; 
+  }
+  
+  .success {
+    color: blue;
+  }
+  
+  .error {
+    color: red;
+  }
+  

@@ -1,0 +1,90 @@
+.logotipo{
+    text-align: center;
+}
+
+.logo{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+    
+    color: #0783c1;
+}
+.logo>img{
+    margin-top: 50px;
+}
+.logo>h1{
+    display:inline;
+    font-size: 70px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #0091E7; 
+    font-style:italic;
+    text-align: center;
+}
+
+
+
+.esqueci-senha{
+    text-align:right;
+    font-size: 14px;
+    font-style: italic; 
+    margin-bottom: 20px;  
+   
+}
+
+.esqueci-senha>a{
+    text-decoration: none;
+    color:hsl(0, 0%, 100%);
+}
+
+.cadastrar>a{
+    text-decoration: none;
+    color:hsl(0, 0%, 100%);
+}
+
+.cadastrar{
+    text-align:right;
+    font-size: 18px;
+      
+   
+}
+
+
+.flex-container {
+    display: flex;
+    flex: 1;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+             
+}
+  
+.flex-container > div {   
+    text-align: left;      
+    font-size:18px;
+    color: #FFFF;
+    background-color: rgb(0, 0, 0, 0.1);
+    
+   
+}
+
+
+.group{
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.todo{   
+    background-position: top left;   
+    background-image: url('../../img/FundoAzulLogin.jpg');
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;  
+}
+    
+.root{
+    padding-left: 0px;
+}

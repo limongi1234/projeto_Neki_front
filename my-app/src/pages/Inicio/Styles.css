@@ -1,0 +1,63 @@
+.background-grid {
+	background-image: linear-gradient(45deg, #0693e388, #7bdcb588);
+	border-radius: 15px;
+	margin: 20px auto;
+	padding: 35px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514);
+	margin-left: 20%;
+	margin-top: 10px;
+	margin-bottom: -170px;	
+}
+
+.avatar-user {
+	height: 250px;
+	width: 250px;
+	border: 2px solid;
+	border-color: rgba(63, 223, 223, 0.692);
+}
+
+.btnn {
+	background-image: linear-gradient(45deg, #36afd8, #308eb6 60%);
+	border-radius: 3px;
+	box-shadow: 0 3px 5px 2px #3c64744b;
+	color: white;
+	height: 36px;
+	width: 150px;
+	margin-top: 5px;
+	padding: 0 30px;
+}
+
+/* .Container {
+	display: flex;
+	flex-direction: column;
+	width: 70vw;
+	height: 30vh;
+}
+
+.Cards {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -10px;
+	margin-bottom: -27vh;
+	text-align: center;
+} 
+
+.tableStyled {
+	border-collapse: none;
+	display: flex;
+}
+.tableRowStyled {
+	border: none !important;
+}
+.tableCellStyled {
+	border-right: solid 1px #000000;
+	border-left: solid 1px #000000;
+	border-bottom: none !important;
+} */
+
+.curved {
+	width: 100vw;
+	margin-top: -10px;
+	margin-left: -50px;
+	margin-bottom: -10px;
+}
